@@ -3,6 +3,7 @@ A minimal Python boilerplate to streamline your project setup—efficient, organ
 
 ## Features
 - UV, an extremely fast Python package and project manager, written in Rust.
+- Ruff, an extremely fast Python linter and code formatter, written in Rust.
 - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries.
 
 ## CookBook
