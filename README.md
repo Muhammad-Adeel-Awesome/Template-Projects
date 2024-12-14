@@ -11,8 +11,6 @@ A minimal Python boilerplate to streamline your project setup—efficient, organ
     uv run .\src\main.py
     ```
 
----
-
 -   An example of a simple test:
     ```
     pytest
